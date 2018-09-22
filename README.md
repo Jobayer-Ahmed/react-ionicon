@@ -1,10 +1,10 @@
 ## React wrapper for the ionicons project from Ionic Framework
 
-A React wrapper for the ionicons project <https://ionicons.com/>. It renders a `<i>` tag with ionicons classes (like how you'd usually use it). No extra configuration required.
+A React wrapper for the [ionicons](https://ionicons.com/) project. It renders a `<i>` tag with ionicons classes (like how you'd usually use it). No extra configuration required.
 
 #### prerequisite:
 
-**React** and **Webpack**. Obviously.
+**React** and **Webpack**.
 
 #### How to use: 
 
@@ -14,19 +14,19 @@ Install it with npm:
 
 Include in your component: 
 
-    import ionicons from 'react-ionicons';
+    import IonIcon from 'react-ionicons';
 
 Use it in JSX:
-	<!-- for normal -->
+	** For Normal **
     <IonIcon name="airplane"/>
-    <!-- for ios -->
+	** For IOS **
     <IonIcon name="ios-airplane"/>
 
 Supported values for the props are given below :
 
 **name** (Required): 
 
-Any valid icon name from the ionicons website (<https://ionicons.com/>).
+Any valid icon name from the [ionicons website](https://ionicons.com/).
 
 You can read more about these here: <https://ionicons.com/usage/>
 

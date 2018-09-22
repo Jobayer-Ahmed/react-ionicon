@@ -17,14 +17,16 @@ Include in your component:
     import IonIcon from 'react-ionicons';
 
 Use it in JSX:
-	** For Normal **
 	
-    ```javascript
+	** For Normal **
+
+    ```
     	<IonIcon name="airplane"/>
 	```
+
 	** For IOS **
 
-	```javascript
+	```
     	<IonIcon name="ios-airplane"/>
     ```
 

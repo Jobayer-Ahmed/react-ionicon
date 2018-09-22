@@ -18,9 +18,15 @@ Include in your component:
 
 Use it in JSX:
 	** For Normal **
-    <IonIcon name="airplane"/>
+	
+    ```javascript
+    	<IonIcon name="airplane"/>
+	```
 	** For IOS **
-    <IonIcon name="ios-airplane"/>
+
+	```javascript
+    	<IonIcon name="ios-airplane"/>
+    ```
 
 Supported values for the props are given below :
 

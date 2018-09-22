@@ -17,18 +17,14 @@ Include in your component:
     import IonIcon from 'react-ionicons';
 
 Use it in JSX:
-	
-	** For Normal **
 
-    ```
-    	<IonIcon name="airplane"/>
-	```
+** For Normal **
 
-	** For IOS **
+	<IonIcon name="airplane"/>
 
-	```
-    	<IonIcon name="ios-airplane"/>
-    ```
+** For IOS **
+
+	<IonIcon name="ios-airplane"/>
 
 Supported values for the props are given below :
 

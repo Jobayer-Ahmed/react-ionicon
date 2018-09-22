@@ -18,11 +18,11 @@ Include in your component:
 
 Use it in JSX:
 
-** For Normal **
+**For Normal**
 
 	<IonIcon name="airplane"/>
 
-** For IOS **
+**For IOS**
 
 	<IonIcon name="ios-airplane"/>
 
